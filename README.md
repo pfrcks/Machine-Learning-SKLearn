@@ -11,7 +11,7 @@ The following repository contains notebooks to be used during the BangPypers Jul
 * Installation is a non-trivial process generally. However we have the wonderful **conda** environment manager, a part of Anaconda Scientific Distribution. The best course of action is downloading and installing [miniconda](http://conda.pydata.org/miniconda.html).
     * Once you have minconda installed issue the following command on your shell
     * `conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn`
-    * `conda conda install -c conda-forge ipywidgets`
+    * `conda install -c conda-forge ipywidgets`
     * **Note**: The above process requires a good net connection and time. Please do this before coming to the workshop.
 * If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install) instead of the above method.
     * After installing issue `conda conda install -c conda-forge ipywidgets`
