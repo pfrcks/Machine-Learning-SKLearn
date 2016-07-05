@@ -16,7 +16,6 @@ The following repository contains notebooks to be used during the BangPypers Jul
 
 ## Requirements
 
-* Dependencies - All the requirements are taken care by requirements.txt file.
 * Python-2.7
 * Working knowledge of Python
 
