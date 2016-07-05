@@ -14,7 +14,7 @@ The following repository contains notebooks to be used during the BangPypers Jul
     * `conda install -c conda-forge ipywidgets`
     * **Note**: The above process requires a good net connection and time. Please do this before coming to the workshop.
 * If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install) instead of the above method.
-    * After installing issue `conda conda install -c conda-forge ipywidgets`
+    * After installing issue `conda install -c conda-forge ipywidgets`
 * This repo is a work in process. To keep yourself updated issue a `git pull` before attending the workshop to be on the latest version.
 * That's it.
 
