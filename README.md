@@ -22,6 +22,7 @@ The following repository contains notebooks to be used during the BangPypers Jul
 ## Notes
 
 * This workshop has been developed with the intended audience as people with little or no experience of scikit-learn and/or machine learning. 
+* Please download the repo and fetch the dependencies before coming to the workshop. The installation takes time which can be spent on the workshop instead.
 
 ## Credits where credit's due
 
