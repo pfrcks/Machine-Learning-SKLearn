@@ -9,8 +9,12 @@ The following repository contains notebooks to be used during the BangPypers Jul
 * Clone this repo `git clone https://github.com/pfrcks/BangPypers-SKLearn.git`
 * If you don't have `python-dev` install it using `sudo apt-get install python-dev` or whatver equivalent command you have for your distribution.
 * Installation is a non-trivial process generally. However we have the wonderful **conda** environment manager, a part of Anaconda Scientific Distribution. The best course of action is downloading and installing [miniconda](http://conda.pydata.org/miniconda.html).
-* Once you have minconda installed issue the following command on your shell
-* `conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn`
+    * Once you have minconda installed issue the following command on your shell
+    * `conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn`
+    * `conda conda install -c conda-forge ipywidgets`
+    * **Note**: The above process requires a good net connection and time. Please do this before coming to the workshop.
+* If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install).
+    * After installing issue `conda conda install -c conda-forge ipywidgets`
 * This repo is a work in process. To keep yourself updated issue a `git pull` before attending the workshop to be on the latest version.
 * That's it.
 
