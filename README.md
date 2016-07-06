@@ -15,6 +15,7 @@ The following repository contains notebooks to be used during the BangPypers Jul
     * **Note**: The above process requires a good net connection and time. Please do this before coming to the workshop.
 * If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install) instead of the above method.
     * After installing issue `conda install -c conda-forge ipywidgets`
+* **fetch_data.py** fetches the data required for the Facial Recognition Example. The dataset is ~230MB. If you want to follow along during the workshow you can execute `python fetch_data.py` after cd'ing into the repo directory. In case you don't want to download it, you are welcome to look at the example during the workshop.
 * This repo is a work in process. To keep yourself updated issue a `git pull` before attending the workshop to be on the latest version.
 * **NOTE** : If you face any problems during installation, please create an issue on github.
 * That's it.
