@@ -41,3 +41,4 @@ The following repository contains notebooks to be used during the BangPypers Jul
 * KD-Nuggets post
 * Dive into
 * Awesome notebooks
+* A visual intro to ML(http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
