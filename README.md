@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The following repository contains notebooks to be used during the BangPypers July meetup. These notebooks are made keeping in mind that the intended audience has very little or no experience with scikit-learn and/or machine learning.
+The following repository contains notebooks which are based on the material used by me during the BangPypers July meetup. These notebooks are made keeping in mind that the intended audience has very little or no experience with scikit-learn and/or machine learning but have some knowledge of python.
 
 ## Installation
 
@@ -13,7 +13,7 @@ The following repository contains notebooks to be used during the BangPypers Jul
     * `conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn`
     * `conda install -c conda-forge ipywidgets`
     * **Note**: The above process requires a good net connection and time. Please do this before coming to the workshop.
-* If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install) instead of the above method.
+* If you want to further simplify the process you can go for the fullfledged package [Anaconda](https://docs.continuum.io/anaconda/install) instead of the above method. (This is the most preferred method)
     * After installing issue `conda install -c conda-forge ipywidgets`
 * **fetch_data.py** fetches the data required for the Facial Recognition Example. The dataset is ~230MB. If you want to follow along during the workshow you can execute `python fetch_data.py` after cd'ing into the repo directory. In case you don't want to download it, you are welcome to look at the example during the workshop.
 * This repo is a work in process. To keep yourself updated issue a `git pull` before attending the workshop to be on the latest version.
