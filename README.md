@@ -1,4 +1,4 @@
-# BangPypers July Meetup
+# Machine Learning using Scikit-Learn
 
 ## Introduction
 
